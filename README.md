@@ -9,7 +9,7 @@ The `docker-compose.yml` file will create the different container. Each containe
 * Clone the repo
 * `cd api/` then yarn install
 * `cd ..` then `docker-compose up`
-* Open the brower at localhost
+* Open the brower at [localhost](http://localhost/hello/world)
 
 ## Why ?
 Actually the application has no purpose but it's fully fonctional to add a nodeJs application.
