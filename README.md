@@ -12,7 +12,7 @@ The `docker-compose.yml` file will create the different containers. Each contain
 * Open the browser at [localhost](http://localhost/hello/world)
 
 ## What is the goal ?
-Actually the app only display a hello world string but it is fully functional for a nodejs app just add it.
+Actually the app only display a hello world string but it is fully functional for a more complex nodejs app .
 
 
 ## Docker-compose file : 
