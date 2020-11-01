@@ -9,7 +9,7 @@ The `docker-compose.yml` file will create the different containers. Each contain
 * Clone the repo
 * `cd api/` then `npm install`
 * `cd ..` then `docker-compose up`
-* Open the brower at [localhost](http://localhost/hello/world)
+* Open the browser at [localhost](http://localhost/hello/world)
 
 ## What is the goal ?
 Actually the app only displays a hello world string but it is fully functional for a nodejs app just add it.
