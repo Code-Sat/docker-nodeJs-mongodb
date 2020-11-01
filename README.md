@@ -1,11 +1,11 @@
-#titre1Docker Project :
+Docker Project :#titre1
 
-#titre2MongoDB - Redis - NodeJS : 
+MongoDB - Redis - NodeJS :#titre2
 
 This project use nodejs for the backend part mongoDB for the database and 
 
 
-#titre2 How to use ?
+How to use ?#titre2
 * Clone the repo
 * cd api then yarn install
 * cd .. then docker-compose up
