@@ -7,7 +7,7 @@ The `docker-compose.yml` file will create the different containers. Each contain
 
 ## How to use ?
 * Clone the repo
-* `cd api/` then `yarn install`
+* `cd api/` then `npm install`
 * `cd ..` then `docker-compose up`
 * Open the brower at [localhost](http://localhost/hello/world)
 
