@@ -11,5 +11,5 @@ The `docker-compose.yml` file will create the different containers. Each contain
 * `cd ..` then `docker-compose up`
 * Open the brower at [localhost](http://localhost/hello/world)
 
-## Why this repo?
+## What is the goal ?
 Actually the application has no purpose but it's fully fonctional to add a nodeJs application.
