@@ -8,7 +8,7 @@ The `docker-compose.yml` file will create the different containers. Each contain
 ## How to use ?
 * Clone the repo
 * `cd api/` then `npm install`
-* `cd ..` then `docker-compose up`
+* `cd ..` then `docker-compose up` on the root 
 * Open the browser at [localhost](http://localhost/hello/world)
 
 ## What is the goal ?
