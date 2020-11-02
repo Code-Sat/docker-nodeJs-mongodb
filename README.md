@@ -17,7 +17,7 @@ Actually the app only display a hello world string but it is fully functional fo
 
 ## Docker-compose file : 
 ```
-version: "2"
+version: "3"
 services:
   api:
     image: node:boron
